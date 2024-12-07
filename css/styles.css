@@ -6,6 +6,8 @@ body{
     
 }
 
+
+
 p{
     font-size: 20px;
 }
@@ -22,9 +24,9 @@ footer{
 
 
 
-#Projects, .aa, .intro, #Contact{
+/* #Projects, .aa, .intro, #Contact{
     text-align: center;
-}
+} */
 
 ol{
     font-size: 2rem;
