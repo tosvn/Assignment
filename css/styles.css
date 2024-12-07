@@ -1,0 +1,39 @@
+*{
+    transition: all ease-in;
+}
+body{
+    padding: 1.5rem;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    height: 20rem;
+    padding: 1rem;
+}
+
+footer{
+    text-align: center;
+    padding: 0.2rem;
+}
+
+
+
+#Projects, .aa, .intro, #Contact{
+    text-align: center;
+}
+
+ol{
+    font-size: 2rem;
+}
+
+form{
+    padding: 2.5rem;
+    background-color: darkgray;
+}
+
+
+
